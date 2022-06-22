@@ -151,7 +151,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © 2022-present Mr.Ao | <a href="https://beian.miit.gov.cn/" target="_blank">湘ICP备2020024114号</a>`,
       },
       prism: {
         theme: lightCodeTheme,
