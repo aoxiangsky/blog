@@ -1,2 +1,0 @@
-String('11') == new String('11')
-String('11') === new String('11')
